@@ -48,6 +48,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "peerDependencies": {
-    "cypress": "2 - 13"
+    "cypress": "2 - 14"
   }
 }
